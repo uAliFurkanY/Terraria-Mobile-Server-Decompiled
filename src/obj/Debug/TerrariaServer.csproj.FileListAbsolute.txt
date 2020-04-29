@@ -1,0 +1,2 @@
+C:\Users\caspe\Desktop\gameserver\terrariamobile\dec\obj\Debug\TerrariaServer.csprojAssemblyReference.cache
+C:\Users\caspe\Desktop\gameserver\terrariamobile\dec\obj\Debug\TerrariaServer.csproj.CoreCompileInputs.cache
